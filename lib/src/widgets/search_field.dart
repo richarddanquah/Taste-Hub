@@ -10,7 +10,7 @@ class SearchField extends StatelessWidget{
             child: TextField(
             decoration: InputDecoration(
               contentPadding: EdgeInsets.symmetric(horizontal: 32.0,vertical: 14.0),
-            hintText: "Search Restaurant",
+            hintText: "Search Food",
             suffixIcon: Material(
               elevation: 5.0,
               borderRadius: BorderRadius.circular(30.0),
