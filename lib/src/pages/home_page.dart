@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
                   style: TextStyle(
                     fontSize: 18.0,
                     fontWeight: FontWeight.bold,
-                    color: Colors.orangeAccent,
+                    color: Color(0xFFFD9F00),
                   ),
                 ),
               ),

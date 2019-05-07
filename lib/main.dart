@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Taste Hub",
       theme: ThemeData(
-        primaryColor: Colors.orangeAccent
+        primaryColor: Color(0xFFFD9F00),
       ),
       // instance of the home screen
       home: MainScreen(),
